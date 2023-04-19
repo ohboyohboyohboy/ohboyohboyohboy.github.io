@@ -1,0 +1,112 @@
++------------------------------------------------------------------------------+
+| Resume: Kyle Yetter > > > Senior Software Engineer                           |
++------------------------------------------------------------------------------+
+
+ADDRESS:   Richmond, VA 23219
+PHONE:     (757) 880-3239
+EMAIL:     kyle@ohboyohboyohboy.org
+LINKEDIN:  https://www.linkedin.com/in/kyle-yetter
+GITHUB:    https://github.com/ohboyohboyohboy
+
+
++------------------------------------------------------------------------------+
+| ABOUT                                                                        |
++------------------------------------------------------------------------------+
+
+I am an experienced software engineer specializing in programming with modern
+languages such as Ruby, Javascript, and Python. My career spans many years
+across gig economy markets, education tech, web hosting, and telecommunication.
+I have developed a broad spectrum of technical knowledge with the keen creative
+problem-solving skills that make for the best engineers. I take pride in my
+work, and I value quality in my results. I am seeking placement with a team of
+other talented professionals where I can exercise the full strength of my
+abilities.
+
++------------------------------------------------------------------------------+
+| EMPLOYMENT HISTORY                                                           |
++------------------------------------------------------------------------------+
+
+[ Wonolo ]
+LOCATION:        San Francisco, CA <b>*</b>
+EMPLOYMENT SPAN: 2022 - 2023
+WEBSITE:         https://www.wonolo.com
+ABOUT: Wonolo (Work Now Locally) is a gig work marketplace that allows business owners to hire workers for temporary roles
+
+---------
+# Senior Software Engineer II ~ Jun 2022 to Apr 2023
+* Stack technologies: Ruby, Rails, Postgresql, GraphQL, Apache Airflow, Python, React, Redis
+* Worked closely with the Trust and Safety team to integrate Wonolo’s data with Unit21, a fraud detection and case management system
+* Designed and maintained Apache Airflow DAGs to synchronize live application data, warehoused data, and real-time user events with third-party integrations
+* Maintained the Wonolo admin site and fielded improvements for support agents and internal customers
+* Researched and proposed tooling improvements for the core Rails build
+* Performed the initial design and established the foundation for a customer-facing public GraphQL API
+
+
+
+[ TaskRabbit, Inc ]
+LOCATION:        San Francisco, CA <b>*</b>
+EMPLOYMENT SPAN: 2019 - 2022
+WEBSITE:         https://www.taskrabbit.com
+ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace where consumers hire professionals to assist in everyday labor
+
+---------
+# Senior Software Engineer ~ Jan 2019 to Apr 2022
+* Stack technologies: Ruby, Rails, MySQL, REST, GraphQL, React, Redis, QueueBus, Linux, Nginx, Docker
+* Built foundational platform for company integration with Twilio Segment.
+* Designed and implemented tooling integrations for marketplace Operations teams
+* Researched and designed GraphQL API for use by the mobile and web apps
+* Mentored junior engineers and worked extensively to transfer knowledge.
+* Provided server-side engineering support for TaskRabbit's mobile and web apps
+* Wrote a regular series of articles with tips and advice on Ruby programming.
+* Conducted screenings and interviews of engineering candidates
+
+
+
+[ eBackpack, LLC ]
+LOCATION:        Rockwall, TX <b>*</b>
+EMPLOYMENT SPAN: 2013 - 2018
+WEBSITE:         http://www.ebackpack.com
+ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform targeting K-12 educational institutions.
+
+---------
+# Senior Developer ~ Sep 2013 to Dec 2018
+* Stack technologies: Ruby, Rails, Postgres, Mongo, REST, Angular 2, Bootstrap, Cordova, Linux, Apache
+* Planned and documented high-level features and products related to the application, including a fully-featured exam design and administration tool
+* Performed primary product development and maintenance for eBackpack following agile methodologies
+* Handled dev-ops activities and management on the fleet of application servers and other company equipment
+* Participated in a 24-hour "on call" rotation system with other senior developers to handle operational emergencies outside normal work hours
+
+
+
+[ InMotion Hosting ]
+LOCATION:        Virginia Beach, VA
+EMPLOYMENT SPAN: 2010 - 2013
+WEBSITE:         http://www.inmotionhosting.com
+ABOUT: InMotion Hosting is a web-hosting company with operations in Virginia Beach.
+
+---------
+# Developer ~ Jul 2012 to Sep 2013
+* Stack technologies: PHP, Perl, Ruby, Python, MySQL, Linux, Apache, cPanel
+* Performed development and maintenance on company's account management website using agile techniques
+
+---------
+# Systems Administrator III ~ Dec 2011 to Jul 2012
+
+---------
+# Systems Administrator II ~ Mar 2011 to Dec 2011
+
+---------
+# Support Technician I ~ May 2010 to Mar 2011
+
+
+
+[ Sprint Managed Network Services ]
+LOCATION:        Reston, VA
+EMPLOYMENT SPAN: 2006 - 2008
+WEBSITE:         http://www.sprint.com
+---------
+# Network Technician II ~ May 2006 to Feb 2008
+
+
+
+
