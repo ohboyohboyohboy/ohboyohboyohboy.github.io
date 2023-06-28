@@ -1280,11 +1280,20 @@ section h3 {
 
 .requirements-table {
   border-left: 0px;
-  border-right: 0px; }
+  border-right: 0px;
+  border-collapse: collapse; }
   .requirements-table th {
-    text-align: left; }
+    text-align: left;
+    text-decoration: underline;
+    font-weight: bold; }
+  .requirements-table td {
+    padding: 5px;
+    margin: 0;
+    border: 0; }
   .requirements-table tr td:nth-child(2) {
     text-align: center; }
+  .requirements-table tr:nth-child(even) {
+    background-color: #efefef; }
 
 @media only screen {
   h1 {
@@ -1343,6 +1352,11 @@ section h3 {
 
   h1 {
     font-size: 10pt; }
+
+  h2 {
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline; }
 
   article {
     line-height: 1.3; }
