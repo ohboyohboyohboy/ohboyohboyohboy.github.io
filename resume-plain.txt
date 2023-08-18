@@ -1,5 +1,5 @@
 +------------------------------------------------------------------------------+
-| Resume: Kyle Yetter > > > Senior Software Engineer                           |
+| Resume: Kyle Yetter > > > Staff Software Engineer                            |
 +------------------------------------------------------------------------------+
 
 ADDRESS:   Richmond, VA 23219
@@ -26,8 +26,19 @@ abilities.
 | EMPLOYMENT HISTORY                                                           |
 +------------------------------------------------------------------------------+
 
+[ Huntress ]
+LOCATION:        Elicott City, MD <small>(remote from VA)</small>
+EMPLOYMENT SPAN: 
+WEBSITE:         https://www.huntress.com
+ABOUT: Huntress is a cyber-security platform that focuses on detecting and preventing hacks, malware, ransomware, intrusions, and phishing on business networks.
+
+---------
+# Senior Software Engineer ~ Jul 2023 to Aug 2023
+
+
+
 [ Wonolo ]
-LOCATION:        San Francisco, CA <b>*</b>
+LOCATION:        San Francisco, CA <small>(remote from VA)</small>
 EMPLOYMENT SPAN: 2022 - 2023
 WEBSITE:         https://www.wonolo.com
 ABOUT: Wonolo (Work Now Locally) is a gig work marketplace that allows business owners to hire workers for temporary roles
@@ -44,7 +55,7 @@ ABOUT: Wonolo (Work Now Locally) is a gig work marketplace that allows business 
 
 
 [ TaskRabbit, Inc ]
-LOCATION:        San Francisco, CA <b>*</b>
+LOCATION:        San Francisco, CA <small>(remote from VA)</small>
 EMPLOYMENT SPAN: 2019 - 2022
 WEBSITE:         https://www.taskrabbit.com
 ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace where consumers hire professionals to assist in everyday labor
@@ -63,7 +74,7 @@ ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace whe
 
 
 [ eBackpack, LLC ]
-LOCATION:        Rockwall, TX <b>*</b>
+LOCATION:        Rockwall, TX <small>(remote from VA)</small>
 EMPLOYMENT SPAN: 2013 - 2018
 WEBSITE:         http://www.ebackpack.com
 ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform targeting K-12 educational institutions.

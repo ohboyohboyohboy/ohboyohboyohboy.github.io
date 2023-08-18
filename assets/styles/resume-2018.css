@@ -1101,17 +1101,20 @@ template {
     -ms-flex-order: 1;
     order: 1; } }
 * {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Montserrat", "Poppins", sans-serif; }
 
 body {
   padding: 0;
   margin: 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Eczar", serif;
+  font-family: "Caprasimo", "Eczar", serif;
   font-weight: normal;
   margin: 0;
   padding: 0; }
+  h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+    font-family: "Caprasimo", "Eczar", serif;
+    font-weight: normal; }
 
 ul {
   list-style-type: none;
@@ -1160,16 +1163,14 @@ header, .contacts-stripe {
   border-bottom: 1px #000000 solid; }
 
 .date {
-  font-family: "Eczar", serif;
-  font-weight: bold;
+  font-family: "Caprasimo", "Eczar", serif;
   color: #4d4d4d; }
 
 .minor-date {
   color: #8d8d8d; }
 
 .name {
-  color: #111111;
-  font-weight: bold; }
+  color: #111111; }
 
 .g0, .g1, .g2, .g3 {
   font-family: "Days One", serif; }
@@ -1193,10 +1194,10 @@ p {
 #page > header {
   background-color: #FD2321; }
   #page > header .my-name {
-    font-family: "Eczar", serif;
+    font-family: "Caprasimo", "Eczar", serif;
     color: #ffffff; }
   #page > header .my-title {
-    font-family: "Eczar", serif;
+    font-family: "Caprasimo", "Eczar", serif;
     color: #111111; }
   #page > header .g3 {
     color: #333333; }
@@ -1239,18 +1240,19 @@ section a:hover {
   text-decoration: underline; }
 section h2 {
   color: #111111;
-  font-weight: bold; }
+  font-weight: normal; }
+  section h2 small {
+    font-size: 0.5em; }
 section h3 {
   color: #FD2321;
-  font-weight: bold; }
+  font-weight: normal; }
 
 .footnote {
   color: #4d4d4d; }
 
 .title-text {
   color: #FD2321;
-  font-weight: bold;
-  font-family: "Eczar", serif; }
+  font-family: "Caprasimo", "Eczar", serif; }
 
 .filled-star {
   color: #FD2321; }
@@ -1275,7 +1277,6 @@ section h3 {
   margin-bottom: 0;
   font-size: 0.6rem;
   font-style: italic;
-  font-weight: bold;
   color: #4d4d4d; }
 
 .requirements-table {
@@ -1284,8 +1285,7 @@ section h3 {
   border-collapse: collapse; }
   .requirements-table th {
     text-align: left;
-    text-decoration: underline;
-    font-weight: bold; }
+    text-decoration: underline; }
   .requirements-table td {
     padding: 5px;
     margin: 0;
@@ -1416,7 +1416,7 @@ section h3 {
     font-weight: bold; }
 
   .letter main * {
-    font-family: "Eczar", serif;
+    font-family: "Caprasimo", "Eczar", serif;
     font-size: 12pt;
     line-height: 1.3; }
   .letter ul {
