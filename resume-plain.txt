@@ -86,7 +86,7 @@ ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform 
 * Designed and implemented fully-featured exam authoring, adminsitration, scoring, and reporting system to allow teachers to fully adminsiter quizzes and tests for their classrooms
 * Established automatic synchronization of assignment and activity due dates to students Google and Office calendars
 * Created multi-platform mobile app used to report grades and assignments to parents of students using Apache Cordova
-* Planned and documented high-level features and products related to the application, including a fully-featured exam design and administration tool
+* Planned and documented high-level features and products related to the application
 * Performed primary product development and maintenance for eBackpack following agile methodologies
 * Handled dev-ops activities and management on the fleet of application servers and other company equipment
 * Participated in a 24-hour "on call" rotation system with other senior developers to handle operational emergencies outside normal work hours
@@ -104,6 +104,7 @@ ABOUT: InMotion Hosting is a web-hosting company with operations in Virginia Bea
 * Stack technologies: PHP, Perl, Ruby, Python, MySQL, Zend Framework, Linux, Apache, cPanel
 * Designed and implemented new McAfee advanced private spam filtering product, a complex distributed project that coordinated hosting servers, payment systems, customer recoreds, and third party service APIs
 * Performed development and maintenance on company's account management website using agile techniques
+* Led weekly product planning and story pointing meetings with the development team
 
 ---------
 # Systems Administrator III ~ Dec 2011 to Jul 2012
