@@ -27,18 +27,19 @@ abilities.
 +------------------------------------------------------------------------------+
 
 [ Huntress ]
-LOCATION:        Elicott City, MD <small>(remote from VA)</small>
+LOCATION:        Richmond, VA (remote)
 EMPLOYMENT SPAN: 
 WEBSITE:         https://www.huntress.com
 ABOUT: Huntress is a cyber-security platform that focuses on detecting and preventing hacks, malware, ransomware, intrusions, and phishing on business networks.
 
 ---------
-# Senior Software Engineer ~ Jul 2023 to Aug 2023
+# Senior Software Engineer ~ Jul 2023 to Oct 2023
+* Recently started role
 
 
 
 [ Wonolo ]
-LOCATION:        San Francisco, CA <small>(remote from VA)</small>
+LOCATION:        Richmond, VA (remote)
 EMPLOYMENT SPAN: 2022 - 2023
 WEBSITE:         https://www.wonolo.com
 ABOUT: Wonolo (Work Now Locally) is a gig work marketplace that allows business owners to hire workers for temporary roles
@@ -55,7 +56,7 @@ ABOUT: Wonolo (Work Now Locally) is a gig work marketplace that allows business 
 
 
 [ TaskRabbit, Inc ]
-LOCATION:        San Francisco, CA <small>(remote from VA)</small>
+LOCATION:        Richmond, VA (remote)
 EMPLOYMENT SPAN: 2019 - 2022
 WEBSITE:         https://www.taskrabbit.com
 ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace where consumers hire professionals to assist in everyday labor
@@ -74,7 +75,7 @@ ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace whe
 
 
 [ eBackpack, LLC ]
-LOCATION:        Rockwall, TX <small>(remote from VA)</small>
+LOCATION:        Richmond, VA (remote)
 EMPLOYMENT SPAN: 2013 - 2018
 WEBSITE:         http://www.ebackpack.com
 ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform targeting K-12 educational institutions.
@@ -82,6 +83,9 @@ ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform 
 ---------
 # Senior Developer ~ Sep 2013 to Dec 2018
 * Stack technologies: Ruby, Rails, Postgres, Mongo, REST, Angular 2, Bootstrap, Cordova, Linux, Apache
+* Designed and implemented fully-featured exam authoring, adminsitration, scoring, and reporting system to allow teachers to fully adminsiter quizzes and tests for their classrooms
+* Established automatic synchronization of assignment and activity due dates to students Google and Office calendars
+* Created multi-platform mobile app used to report grades and assignments to parents of students using Apache Cordova
 * Planned and documented high-level features and products related to the application, including a fully-featured exam design and administration tool
 * Performed primary product development and maintenance for eBackpack following agile methodologies
 * Handled dev-ops activities and management on the fleet of application servers and other company equipment
@@ -97,11 +101,15 @@ ABOUT: InMotion Hosting is a web-hosting company with operations in Virginia Bea
 
 ---------
 # Developer ~ Jul 2012 to Sep 2013
-* Stack technologies: PHP, Perl, Ruby, Python, MySQL, Linux, Apache, cPanel
+* Stack technologies: PHP, Perl, Ruby, Python, MySQL, Zend Framework, Linux, Apache, cPanel
+* Designed and implemented new McAfee advanced private spam filtering product, a complex distributed project that coordinated hosting servers, payment systems, customer recoreds, and third party service APIs
 * Performed development and maintenance on company's account management website using agile techniques
 
 ---------
 # Systems Administrator III ~ Dec 2011 to Jul 2012
+* Managed a fleet of Linux-based web hosting servers
+* Responded to emergency security incidents and attacks on customers
+* Authored many tools to automate adminstration tasks, distributing and maintaining them as RedHat packages
 
 ---------
 # Systems Administrator II ~ Mar 2011 to Dec 2011
