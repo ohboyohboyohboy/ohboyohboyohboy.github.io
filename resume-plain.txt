@@ -66,7 +66,7 @@ ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace whe
 * Stack technologies: Ruby, Rails, MySQL, REST, GraphQL, React, Redis, QueueBus, Linux, Nginx, Docker
 * Built foundational platform for company integration with Twilio Segment.
 * Designed and implemented tooling integrations for marketplace Operations teams
-* Researched and designed GraphQL API for use by the mobile and web apps
+* Researched and designed GraphQL API for use by mobile and web apps
 * Mentored junior engineers and worked extensively to transfer knowledge.
 * Provided server-side engineering support for TaskRabbit's mobile and web apps
 * Wrote a regular series of articles with tips and advice on Ruby programming.
@@ -83,13 +83,13 @@ ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform 
 ---------
 # Senior Developer ~ Sep 2013 to Dec 2018
 * Stack technologies: Ruby, Rails, Postgres, Mongo, REST, Angular 2, Bootstrap, Cordova, Linux, Apache
-* Designed and implemented fully-featured exam authoring, adminsitration, scoring, and reporting system to allow teachers to fully adminsiter quizzes and tests for their classrooms
-* Established automatic synchronization of assignment and activity due dates to students Google and Office calendars
-* Created multi-platform mobile app used to report grades and assignments to parents of students using Apache Cordova
+* Designed and implemented a fully-featured exam authoring, administration, scoring, and reporting system to allow teachers to fully administer quizzes and tests for their classrooms
+* Established automatic synchronization of assignment and activity due dates to students' Google and Office calendars
+* Created a multi-platform mobile app used to report grades and assignments to parents of students using Apache Cordova
 * Planned and documented high-level features and products related to the application
 * Performed primary product development and maintenance for eBackpack following agile methodologies
 * Handled dev-ops activities and management on the fleet of application servers and other company equipment
-* Participated in a 24-hour "on call" rotation system with other senior developers to handle operational emergencies outside normal work hours
+* Participated in a 24-hour "on-call" rotation system with other senior developers to handle operational emergencies outside normal work hours
 
 
 
@@ -97,20 +97,21 @@ ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform 
 LOCATION:        Virginia Beach, VA
 EMPLOYMENT SPAN: 2010 - 2013
 WEBSITE:         http://www.inmotionhosting.com
-ABOUT: InMotion Hosting is a web-hosting company with operations in Virginia Beach.
+ABOUT: InMotion Hosting is a web hosting company with operations in Virginia Beach.
 
 ---------
 # Developer ~ Jul 2012 to Sep 2013
 * Stack technologies: PHP, Perl, Ruby, Python, MySQL, Zend Framework, Linux, Apache, cPanel
-* Designed and implemented new McAfee advanced private spam filtering product, a complex distributed project that coordinated hosting servers, payment systems, customer recoreds, and third party service APIs
-* Performed development and maintenance on company's account management website using agile techniques
-* Led weekly product planning and story pointing meetings with the development team
+* Designed and implemented a new product for hosting customers -- McAfee advanced spam filtering, a complex distributed project that coordinated hosting servers, payment systems, customer records, and third-party service APIs
+* Performed development and maintenance on the company's account management website using agile techniques
+* Led weekly product planning and story-pointing meetings with the development team
 
 ---------
 # Systems Administrator III ~ Dec 2011 to Jul 2012
 * Managed a fleet of Linux-based web hosting servers
 * Responded to emergency security incidents and attacks on customers
-* Authored many tools to automate adminstration tasks, distributing and maintaining them as RedHat packages
+* Authored over ten tools to automate administration tasks, distributing and maintaining them as RedHat packages. These tools were written with a variety of technologies, including Python, Perl, PHP, Ruby, and Bash.
+* Maintained Chrome extension that streamlined work for customer support representatives, greatly improving call center efficiency
 
 ---------
 # Systems Administrator II ~ Mar 2011 to Dec 2011
