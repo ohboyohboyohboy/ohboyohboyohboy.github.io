@@ -3,8 +3,8 @@
 +------------------------------------------------------------------------------+
 
 ADDRESS:   Richmond, VA 23219
-PHONE:     (757) 880-3239
-EMAIL:     kyle@ohboyohboyohboy.org
+PHONE:     +1 (757) 880-3239
+EMAIL:     kyle.c.yetter@gmail.com
 LINKEDIN:  https://www.linkedin.com/in/kyle-yetter
 GITHUB:    https://github.com/ohboyohboyohboy
 
@@ -13,105 +13,95 @@ GITHUB:    https://github.com/ohboyohboyohboy
 | ABOUT                                                                        |
 +------------------------------------------------------------------------------+
 
-I am an experienced software engineer specializing in programming with modern
-languages such as Ruby, Javascript, and Python. My career spans many years
-across gig economy markets, education tech, web hosting, and telecommunication.
-I have developed a broad spectrum of technical knowledge with the keen creative
-problem-solving skills that make for the best engineers. I take pride in my
-work, and I value quality in my results. I am seeking placement with a team of
-other talented professionals where I can exercise the full strength of my
-abilities.
+Software engineer with expertise in Ruby, JavaScript, and Python, delivering
+impactful solutions across gig economy markets, DevOps, edtech, web hosting, and
+telecommunications. Skilled in developing innovative applications and improving
+systems, which enhances user satisfaction and operational efficiency. Offers a
+strong foundation in modern programming languages and a commitment to excellence
+in software development.
 
 +------------------------------------------------------------------------------+
 | EMPLOYMENT HISTORY                                                           |
 +------------------------------------------------------------------------------+
 
-[ Huntress ]
-LOCATION:        Richmond, VA (remote)
+[ GitLab ]
+LOCATION:        Richmond, VA USA (remote)
 EMPLOYMENT SPAN: 
-WEBSITE:         https://www.huntress.com
-ABOUT: Huntress is a cyber-security platform that focuses on detecting and preventing hacks, malware, ransomware, intrusions, and phishing on business networks.
+WEBSITE:         https://www.gitlab.com
+ABOUT: GitLab is an industry leader in providing DevSecOps tooling for professional software developers to design, ship, and maintain software.
 
 ---------
-# Senior Software Engineer ~ Jul 2023 to Oct 2023
-* Recently started role
+# Senior Software Engineer ~ Nov 2023 to Sep 2025
+* Directed research, design, and implementation phases for specialized on-demand backup tool, collaborating with senior engineers to address complex data durability challenges across diverse deployment environments
+* Architected comprehensive backup solution for disaster recovery across all GitLab installation types (SaaS, self-hosted, and managed dedicated), leveraging AWS and Google Cloud Platform infrastructure
+* Resolved critical bugs in GitLab’s enterprise Geo feature, ensuring reliable data synchronization and minimizing unexpected downtime incidents across globally distributed self-hosted installations
+* Mentored junior engineers through formal mentorship program, providing technical guidance and career development support
+* Led a GitLab team member resource group, promoting inclusivity and supporting underrepresented team members through targeted initiatives
 
 
 
 [ Wonolo ]
-LOCATION:        Richmond, VA (remote)
+LOCATION:        Richmond, VA USA (remote)
 EMPLOYMENT SPAN: 2022 - 2023
 WEBSITE:         https://www.wonolo.com
 ABOUT: Wonolo (Work Now Locally) is a gig work marketplace that allows business owners to hire workers for temporary roles
 
 ---------
 # Senior Software Engineer II ~ Jun 2022 to Apr 2023
-* Stack technologies: Ruby, Rails, Postgresql, GraphQL, Apache Airflow, Python, React, Redis
-* Worked closely with the Trust and Safety team to integrate Wonolo’s data with Unit21, a fraud detection and case management system
-* Designed and maintained Apache Airflow DAGs to synchronize live application data, warehoused data, and real-time user events with third-party integrations
-* Maintained the Wonolo admin site and fielded improvements for support agents and internal customers
-* Researched and proposed tooling improvements for the core Rails build
-* Performed the initial design and established the foundation for a customer-facing public GraphQL API
+* Partnered with the Trust and Safety team to direct the integration of Wonolo’s data with Unit21, a fraud detection and case management system, enabling detection of hundreds of fraudulent activities per quarter and reducing manual review time by 80%
+* Developed and maintained Apache Airflow DAGs to synchronize live application data, warehoused data, and real-time user events with third-party integrations
+* Oversaw the Wonolo admin site and implemented improvements for support agents and internal customers
 
 
 
 [ TaskRabbit, Inc ]
-LOCATION:        Richmond, VA (remote)
+LOCATION:        Richmond, VA USA (remote)
 EMPLOYMENT SPAN: 2019 - 2022
 WEBSITE:         https://www.taskrabbit.com
 ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace where consumers hire professionals to assist in everyday labor
 
 ---------
 # Senior Software Engineer ~ Jan 2019 to Apr 2022
-* Stack technologies: Ruby, Rails, MySQL, REST, GraphQL, React, Redis, QueueBus, Linux, Nginx, Docker
-* Built foundational platform for company integration with Twilio Segment.
-* Designed and implemented tooling integrations for marketplace Operations teams
+* Built foundational platform for company integration with Twilio Segment, enabling the Trust and Safety team to respond to fraudulent activity 75% faster
+* Established and executed tooling integrations for marketplace Operations teams
 * Researched and designed GraphQL API for use by mobile and web apps
-* Mentored junior engineers and worked extensively to transfer knowledge.
-* Provided server-side engineering support for TaskRabbit's mobile and web apps
-* Wrote a regular series of articles with tips and advice on Ruby programming.
-* Conducted screenings and interviews of engineering candidates
+* Provided server-side engineering support for TaskRabbit’s mobile and web apps, resolving dozens of critical incidents and drastically improving backend performance
+* Authored a regular series of articles on Ruby programming best practices, contributing to internal knowledge sharing and skill development
 
 
 
 [ eBackpack, LLC ]
-LOCATION:        Richmond, VA (remote)
+LOCATION:        Richmond, VA USA (remote)
 EMPLOYMENT SPAN: 2013 - 2018
 WEBSITE:         http://www.ebackpack.com
 ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform targeting K-12 educational institutions.
 
 ---------
 # Senior Developer ~ Sep 2013 to Dec 2018
-* Stack technologies: Ruby, Rails, Postgres, Mongo, REST, Angular 2, Bootstrap, Cordova, Linux, Apache
-* Designed and implemented a fully-featured exam authoring, administration, scoring, and reporting system to allow teachers to fully administer quizzes and tests for their classrooms
-* Established automatic synchronization of assignment and activity due dates to students' Google and Office calendars
-* Created a multi-platform mobile app used to report grades and assignments to parents of students using Apache Cordova
-* Planned and documented high-level features and products related to the application
-* Performed primary product development and maintenance for eBackpack following agile methodologies
-* Handled dev-ops activities and management on the fleet of application servers and other company equipment
-* Participated in a 24-hour "on-call" rotation system with other senior developers to handle operational emergencies outside normal work hours
+* Built fully-featured test authoring and administration system which allowed hundreds of teachers to create rich assessments with automatic scoring and reporting
+* Established automatic synchronization of assignment and activity due dates to students’ Google and Office calendars
+* Created a multi-platform mobile app using Apache Cordova to report grades and assignments to parents
+* Planned and documented high-level features and product roadmaps, facilitating clear communication and alignment across development and product teams
+* Led primary product development and maintenance for eBackpack, delivering new features and enhancements in an agile environment
+* Coordinated devops activities for a fleet of application servers and company equipment
 
 
 
 [ InMotion Hosting ]
-LOCATION:        Virginia Beach, VA
+LOCATION:        Virginia Beach, VA USA
 EMPLOYMENT SPAN: 2010 - 2013
 WEBSITE:         http://www.inmotionhosting.com
 ABOUT: InMotion Hosting is a web hosting company with operations in Virginia Beach.
 
 ---------
 # Developer ~ Jul 2012 to Sep 2013
-* Stack technologies: PHP, Perl, Ruby, Python, MySQL, Zend Framework, Linux, Apache, cPanel
-* Designed and implemented a new product for hosting customers -- McAfee advanced spam filtering, a complex distributed project that coordinated hosting servers, payment systems, customer records, and third-party service APIs
+* Designed and implemented a new product for hosting customers -- McAfee advanced spam filtering, a complex project that coordinated hosting servers, payment systems, customer records, and third-party service APIs
 * Performed development and maintenance on the company's account management website using agile techniques
-* Led weekly product planning and story-pointing meetings with the development team
 
 ---------
 # Systems Administrator III ~ Dec 2011 to Jul 2012
-* Managed a fleet of Linux-based web hosting servers
-* Responded to emergency security incidents and attacks on customers
-* Authored over ten tools to automate administration tasks, distributing and maintaining them as RedHat packages. These tools were written with a variety of technologies, including Python, Perl, PHP, Ruby, and Bash.
-* Maintained Chrome extension that streamlined work for customer support representatives, greatly improving call center efficiency
+* Authored over ten tools to automate administration tasks, distributing and managing them as RedHat packages, saving hundreds of labor hours per quarter for the admin team and adopted by a team of one dozen administrators
+* Maintained a Chrome extension that streamlined work for customer support representatives, reducing average call handling time by roughly 50% and improving call center efficiency
 
 ---------
 # Systems Administrator II ~ Mar 2011 to Dec 2011
@@ -122,7 +112,7 @@ ABOUT: InMotion Hosting is a web hosting company with operations in Virginia Bea
 
 
 [ Sprint Managed Network Services ]
-LOCATION:        Reston, VA
+LOCATION:        Reston, VA USA
 EMPLOYMENT SPAN: 2006 - 2008
 WEBSITE:         http://www.sprint.com
 ---------
