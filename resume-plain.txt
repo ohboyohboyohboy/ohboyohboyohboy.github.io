@@ -14,11 +14,17 @@ GITHUB:    https://github.com/ohboyohboyohboy
 +------------------------------------------------------------------------------+
 
 Software engineer with expertise in Ruby, JavaScript, and Python, delivering
-impactful solutions across gig economy markets, DevOps, edtech, web hosting, and
-telecommunications. Skilled in developing innovative applications and improving
-systems, which enhances user satisfaction and operational efficiency. Offers a
-strong foundation in modern programming languages and a commitment to excellence
-in software development.
+bespoke solutions for businesses across diverse industries. Skilled in
+developing web applications and improving end-user experience of tools and
+systems. Led the design and operation of large-scale GraphQL API platforms using
+Apollo-based federation strategy. Architected well-structured, fault-tolerant,
+maintainable suites of REST APIs for multiple employers. Innovated tooling to
+accelerate API development, testing, and integration. Fostered high standards in
+API design and operational excellence. Experienced in cloud infrastructure and
+distributed systems. Deeply invested time mentoring engineers and teams.
+Dedicated supporter of diversity and community within engineering, having
+previously led employee resource groups and participated in formal mentorship
+programs.
 
 +------------------------------------------------------------------------------+
 | EMPLOYMENT HISTORY                                                           |
@@ -31,12 +37,12 @@ WEBSITE:         https://www.gitlab.com
 ABOUT: GitLab is an industry leader in providing DevSecOps tooling for professional software developers to design, ship, and maintain software.
 
 ---------
-# Senior Software Engineer ~ Nov 2023 to Sep 2025
-* Directed research, design, and implementation phases for specialized on-demand backup tool, collaborating with senior engineers to address complex data durability challenges across diverse deployment environments
+# Senior Software Engineer ~ Nov 2023 to Oct 2025
+* Directed research, design, and implementation phases for a specialized on-demand backup tool, collaborating with senior engineers across different teams to address complex data durability challenges across diverging deployment environments
 * Architected comprehensive backup solution for disaster recovery across all GitLab installation types (SaaS, self-hosted, and managed dedicated), leveraging AWS and Google Cloud Platform infrastructure
-* Resolved critical bugs in GitLab’s enterprise Geo feature, ensuring reliable data synchronization and minimizing unexpected downtime incidents across globally distributed self-hosted installations
+* Resolved critical bugs in GitLab’s enterprise Geo feature, ensuring reliable data synchronization and minimizing unexpected downtime incidents across hundreds of enterprise-scale globally distributed self-hosted installations
 * Mentored junior engineers through formal mentorship program, providing technical guidance and career development support
-* Led a GitLab team member resource group, promoting inclusivity and supporting underrepresented team members through targeted initiatives
+* Led a GitLab team member resource group that included roughly 100 team members, promoting inclusivity and supporting underrepresented team members through targeted initiatives
 
 
 
@@ -66,7 +72,7 @@ ABOUT: TaskRabbit, a subsidiary of IKEA, is a two-sided gig work marketplace whe
 * Established and executed tooling integrations for marketplace Operations teams
 * Researched and designed GraphQL API for use by mobile and web apps
 * Provided server-side engineering support for TaskRabbit’s mobile and web apps, resolving dozens of critical incidents and drastically improving backend performance
-* Authored a regular series of articles on Ruby programming best practices, contributing to internal knowledge sharing and skill development
+* Penned a regular series of articles on Ruby programming best practices, contributing to internal knowledge sharing and skill development
 
 
 
@@ -81,7 +87,6 @@ ABOUT: eBackpack was a fully-featured Learning Management System (LMS) platform 
 * Built fully-featured test authoring and administration system which allowed hundreds of teachers to create rich assessments with automatic scoring and reporting
 * Established automatic synchronization of assignment and activity due dates to students’ Google and Office calendars
 * Created a multi-platform mobile app using Apache Cordova to report grades and assignments to parents
-* Planned and documented high-level features and product roadmaps, facilitating clear communication and alignment across development and product teams
 * Led primary product development and maintenance for eBackpack, delivering new features and enhancements in an agile environment
 * Coordinated devops activities for a fleet of application servers and company equipment
 
